@@ -164,3 +164,501 @@ Please include the requested information listed below (as much as you can provid
 This information will help us triage your report more quickly.
 
 If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+GitHub Availability Report
+
+Company news
+GitHub Availability Report: February 2021
+Introduction In February, we experienced no incidents resulting in service downtime to our core services. This month’s GitHub Availability Report will provide initial details around an incident from March 1…
+
+Keith Ballinger · March 3, 2021
+
+Company news
+GitHub Availability Report: January 2021
+Introduction In January, we experienced one incident resulting in significant impact and degraded state of availability for the GitHub Actions service. January 28 04:21 UTC (lasting 3 hours 53 minutes)…
+
+Keith Ballinger · February 2, 2021
+
+Company news
+GitHub Availability Report: December 2020
+In December, we experienced no incidents resulting in service downtime. This month’s GitHub Availability Report will provide a summary and follow-up details on how we addressed an incident mentioned in November’s report.
+
+Keith Ballinger · January 6, 2021
+
+Company news
+GitHub Availability Report: November 2020
+Introduction In November, we experienced two incidents resulting in significant impact and degraded state of availability for issues, pull requests, and GitHub Actions services. November 2 12:00 UTC (lasting 32…
+
+Keith Ballinger · December 2, 2020
+
+Company news
+GitHub Availability Report: October 2020
+In October, we experienced one incident resulting in significant impact and degraded state of availability for multiple services.
+
+Keith Ballinger · November 4, 2020
+
+Company news
+GitHub Availability Report: September 2020
+In September, we experienced one incident resulting in significant impact to the GitHub Pages service.
+
+Keith Ballinger · October 7, 2020
+
+Company news
+GitHub Availability Report: August 2020
+Introduction In August, we experienced no incidents resulting in service downtime. This month’s GitHub Availability Report will dive into updates to the GitHub Status Page and provide follow-up details on…
+
+Keith Ballinger · September 2, 2020
+
+Company news
+GitHub Availability Report: July 2020
+Last month we introduced GitHub’s monthly availability report to address service disruptions and share our learnings with the community.
+
+Keith Ballinger · August 5, 2020
+
+Company news
+Introducing the GitHub Availability Report
+What is the Availability Report? Historically, GitHub has published post-incident reviews for major incidents that impact service availability. Whether we’re sharing new investments to infrastructure or detailing site downtimes, our…
+
+Keith Ballinger · July 8, 2020
+Posts pagination
+GitHub Availability Report
+
+Company news
+GitHub Availability Report: May 2022
+In May, we experienced three distinct incidents resulting in significant impact to multiple services across GitHub.com. This report also sheds light into the billing incident that impacted Actions and Codespaces users in April.
+
+Jakub Oleksy · June 1, 2022
+
+Company news
+GitHub Availability Report: April 2022
+In April, we experienced three distinct incidents resulting in significant impact and degraded state of availability for Codespaces and GitHub Packages.
+
+Jakub Oleksy · May 4, 2022
+
+Company news
+GitHub Availability Report: March 2022
+In March, we experienced several incidents resulting in significant impact to multiple GitHub services.
+
+Jakub Oleksy · April 6, 2022
+
+Company news
+GitHub Availability Report: February 2022
+In February, we experienced one incident resulting in significant impact to multiple GitHub services.
+
+Jakub Oleksy · March 2, 2022
+
+Company news
+GitHub Availability Report: January 2022
+In January, we experienced no incidents resulting in service downtime to our core services.
+
+Scott Sanders · February 2, 2022
+
+Company news
+GitHub Availability Report: December 2021
+In December, we experienced no incidents resulting in service downtime to our core services.
+
+Scott Sanders · January 5, 2022
+
+Company news
+GitHub Availability Report: November 2021
+In November, we experienced one incident resulting in significant impact and degraded state of availability for multiple services.
+
+Scott Sanders · December 1, 2021
+
+Company news
+GitHub Availability Report: October 2021
+In October, we experienced one incident resulting in significant impact and degraded state of availability for the GitHub Codespaces service.
+
+Scott Sanders · November 4, 2021
+
+Company news
+GitHub Availability Report: September 2021
+In September, we experienced no incidents resulting in service downtime to our core services.
+
+Scott Sanders · October 6, 2021
+
+Company news
+GitHub Availability Report: August 2021
+In August, we experienced two distinct incidents resulting in significant impact and degraded state of availability for Git operations, API requests, webhooks, issues, pull requests, GitHub Pages, GitHub Packages, and GitHub Actions services.
+
+Scott Sanders · September 1, 2021
+
+Company news
+GitHub Availability Report: July 2021
+In July, GitHub experienced no incidents resulting in service downtime to our core services.
+
+Keith Ballinger · August 4, 2021
+
+Company news
+GitHub Availability Report: June 2021
+In June, we experienced no incidents resulting in service downtime to our core services.
+
+Keith Ballinger · July 7, 2021
+
+Company news
+GitHub Availability Report: May 2021
+In May, we experienced two incidents resulting in significant impact to multiple GitHub services.
+
+Scott Sanders · June 2, 2021
+
+Company news
+GitHub Availability Report: April 2021
+In April, we experienced two incidents resulting in significant impact and degraded state of availability for API requests and the GitHub Packages service, specifically the GitHub Packages Container registry service.…
+
+Keith Ballinger · May 5, 2021
+Octocats building the engineering blog
+Company news
+GitHub Availability Report: March 2021
+In March, we experienced three incidents resulting in significant impact and degraded state of availability for issues, pull requests, webhooks, API requests, GitHub Pages, and GitHub Actions services. Follow up…
+
+Keith Ballinger · April 7, 2021
+Posts pagination
+GitHub Availability Report
+
+Company news
+GitHub Availability Report: July 2023
+In July, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · August 9, 2023
+An illustration of two octocats repairing a robot.
+Company news
+GitHub Availability Report: June 2023
+In June, we experienced two incidents that resulted in degraded performance across GitHub services.  June 7 16:11 UTC (lasting 2 hours 28 minutes) On June 7 at 16:11 UTC, GitHub…
+
+Jakub Oleksy · July 12, 2023
+
+Company news
+GitHub Availability Report: May 2023
+In May, we experienced four incidents that resulted in degraded performance across GitHub services. This report also sheds light into three April incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · June 14, 2023
+
+Company news
+Addressing GitHub’s recent availability issues
+GitHub recently experienced several availability incidents, both long running and shorter duration. We have since mitigated these incidents and all systems are now operating normally. Read on for more details about what caused these incidents and what we’re doing to mitigate in the future.
+
+Mike Hanley · May 16, 2023
+
+Company news
+GitHub Availability Report: April 2023
+In April, we experienced four incidents that resulted in degraded performance across GitHub services. This report also sheds light into three March incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · May 3, 2023
+
+Company news
+GitHub Availability Report: March 2023
+In March, we experienced six incidents that resulted in degraded performance across GitHub services. This report also sheds light into a February incident that resulted in degraded performance for GitHub Codespaces.
+
+Jakub Oleksy · April 5, 2023
+
+Company news
+GitHub Availability Report: February 2023
+In February, we experienced three incidents that resulted in degraded performance across GitHub services. This report also sheds light into a January incident that resulted in degraded performance for GitHub Packages and GitHub Pages and another January incident that impacted Git users.
+
+Jakub Oleksy · March 1, 2023
+
+Company news
+GitHub Availability Report: January 2023
+In January, we experienced two incidents, one that resulted in degraded performance for Packages and Pages and another that impacted Git users.
+
+Jakub Oleksy · February 1, 2023
+
+Company news
+GitHub Availability Report: December 2022
+In December, we did not experience any incidents that resulted in degraded performance across GitHub services. This report sheds light into an incident that impacted customers using GitHub Packages and GitHub Pages in November.
+
+Jakub Oleksy · January 4, 2023
+
+Company news
+GitHub Availability Report: November 2022
+In November, we experienced two incidents that resulted in degraded performance across GitHub services. This report also sheds light into an incident that impacted Codespaces in October.
+
+Jakub Oleksy · December 7, 2022
+
+Company news
+GitHub Availability Report: October 2022
+In October, we experienced four incidents that resulted in degraded performance across GitHub services. This report also sheds light into an incident that impacted Codespaces in September.
+
+Jakub Oleksy · November 2, 2022
+
+Company news
+GitHub Availability Report: September 2022
+In September, we experienced one incident that resulted in degraded performance across GitHub services. We also experienced one incident resulting in significant impact to Codespaces. We are still investigating that incident and will include it in next month’s report. This report also sheds light into an incident that impacted Codespaces in August and an incident that impacted Actions in August.
+
+Jakub Oleksy · October 5, 2022
+
+Company news
+GitHub Availability Report: August 2022
+In August, we experienced one incident resulting in significant impact to Codespaces. We’re still investigating that incident and will include it in next month’s report. This report also sheds light into an incident that impacted Codespaces in July.
+
+Jakub Oleksy · September 7, 2022
+
+Company news
+GitHub Availability Report: July 2022
+In July, we experienced one incident that resulted in degraded performance for Codespaces. This report also acknowledges two incidents that impacted multiple GitHub.com services in June.
+
+Jakub Oleksy · August 3, 2022
+
+Company news
+GitHub Availability Report: June 2022
+In June, we experienced four incidents resulting in significant impact to multiple GitHub.com services. This report also sheds light into an incident that impacted several GitHub.com services in May.
+
+Jakub Oleksy · July 6, 2022
+Posts pagination
+GitHub Availability Report
+
+Company news
+GitHub Availability Report: October 2024
+In October, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · November 14, 2024
+
+Company news
+GitHub Availability Report: September 2024
+In September, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · October 10, 2024
+
+Company news
+GitHub Availability Report: August 2024
+In August, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · September 11, 2024
+
+Company news
+GitHub Availability Report: July 2024
+In July, we experienced four incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · August 14, 2024
+
+Company news
+GitHub Availability Report: June 2024
+In June, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · July 12, 2024
+
+Company news
+GitHub Availability Report: May 2024
+In May, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · June 12, 2024
+
+Company news
+GitHub Availability Report: April 2024
+In April, we experienced four incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · May 10, 2024
+
+Company news
+GitHub Availability Report: March 2024
+In March, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · April 10, 2024
+
+Company news
+GitHub Availability Report: February 2024
+In February, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · March 13, 2024
+
+Company news
+GitHub Availability Report: January 2024
+In January, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · February 14, 2024
+
+Company news
+GitHub Availability Report: December 2023
+In December, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · January 17, 2024
+
+Company news
+GitHub Availability Report: November 2023
+In November, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · December 13, 2023
+
+Company news
+GitHub Availability Report: October 2023
+In October, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · November 13, 2023
+
+Company news
+GitHub Availability Report: September 2023
+In September, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · October 11, 2023
+
+Company news
+GitHub Availability Report: August 2023
+In August, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · September 13, 2023
+Posts pagination
+GitHub Availability Report
+
+Company news
+GitHub availability report: January 2026
+In January, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · February 11, 2026
+
+Company news
+GitHub Availability Report: December 2025
+In December, we experienced five incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · January 14, 2026
+
+Company news
+GitHub Availability Report: November 2025
+In November, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · December 11, 2025
+
+Company news
+GitHub Availability Report: October 2025
+In October, we experienced four incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · November 13, 2025
+
+Company news
+GitHub Availability Report: September 2025
+In September, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · October 8, 2025
+
+Company news
+GitHub Availability Report: August 2025
+In August, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · September 11, 2025
+
+Company news
+GitHub Availability Report: July 2025
+In July, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · August 13, 2025
+
+Company news
+GitHub Availability Report: June 2025
+In June, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · July 16, 2025
+
+Company news
+GitHub Availability Report: May 2025
+In May, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · June 11, 2025
+
+Company news
+GitHub Availability Report: April 2025
+In April, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · May 14, 2025
+
+Company news
+GitHub Availability Report: March 2025
+In March, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · April 16, 2025
+
+Company news
+GitHub Availability Report: February 2025
+In February, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · March 12, 2025
+
+Company news
+GitHub Availability Report: January 2025
+In January, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · February 12, 2025
+
+Company news
+GitHub Availability Report: December 2024
+In December, we experienced two incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · January 15, 2025
+
+Company news
+GitHub Availability Report: November 2024
+In November, we experienced one incident that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · December 13, 2024
+Posts pagination
+https://github.com/github/docs/issues/new/choosehttps://github.com/prettier/angular-html-parser.git
+Configurar la transferencia a Dynamics 365 Customer Service
+Integra con Microsoft 365 Copilot y Teams
+Ampliar Microsoft 365 Copilot con agentes
+Utiliza Copilot Tuning para afinar modelos para Microsoft 365 Copilot
+Configurar el inicio de sesión único con Microsoft Entra ID para los agentes en Microsoft Teams
+Contenido relacionado
+Explora productos y servicios relacionados con Microsoft.
+
+Power Platform
+Recurso de aprendizaje único para aplicaciones y características de Power Platform, como la documentación de administración, conectores, desarrolladores e instrucciones.
+
+Power Apps
+Cree rápidamente aplicaciones con poco código que modernizan los procesos y resuelven los desafíos comerciales difíciles de su organización con Power Apps.
+
+Power Automate
+Cree flujos de trabajo automatizados entre sus aplicaciones y servicios favoritos para sincronizar archivos, obtener notificaciones, recopilar datos y mucho más.
+
+Power BI
+Convierta los orígenes de datos no relacionados en conocimientos coherentes, visualmente inmersivos e interactivos.
+
+Power Pages
+Diseñe, hospede y administre sitios web de empresas seguros, modernos y con poco código.
+
+SDK de agentes de Microsoft 365
+Compile agentes de compilación que se puedan implementar en los canales de su elección, con estructura para gestionar la comunicación necesaria.
+
+Extensibilidad de Microsoft 365 Copilot
+Personalice Microsoft 365 Copilot con agentes y use acciones y conectores para ampliar las aptitudes y conocimientos de Copilot.
+
+Microsoft Agent 365
+Infórmate sobre Microsoft Agent 365, una plataforma para gestionar agentes dentro de una organización.
+
+Microsoft Agents Framework
+Explora Microsoft Agents Framework, un kit de desarrollo de código abierto para construir agentes de IA y flujos de trabajo multiagente.
+
+Microsoft Foundry para IA
+Infórmate sobre Microsoft Foundry, una plataforma unificada de Azure como servicio para operaciones de IA empresarial, creadores de modelos y desarrollo de aplicaciones.
+
+Centro de arquitectura de Power Platform y Copilot Studio
+Examine las arquitecturas de referencia y las ideas de soluciones para Power Platform y Copilot Studio.
+
+Dynamics 365
+Descubra la próxima generación de aplicaciones CRM y ERP.
+
+Microsoft Azure
+Explore el conjunto cada vez mayor de servicios informáticos en la nube para ayudar a su organización a satisfacer sus desafíos empresariales.
+
+Desarrolle sus aptitudes
+Mejora tus conocimientos y habilidades en Copilot Studio con estos recursos.
+
+Dominando Copilot Studio
+Su guía de referencia para crear y personalizar agentes en Microsoft Copilot Studio.
+
+Eventos para convertirte en agente en un día
+Aprenda a crear agentes de inteligencia artificial de código bajo con Copilot Studio en un taller gratuito, práctico y dirigido por instructores.
+
+Academia de Agentes de Copilot Studio
+Domina el arte de construir agentes usando Copilot Studio. Mejora las habilidades de tu equipo con lecciones seleccionadas.
+
+Centro de aprendizaje de Copilot
+Descubra herramientas, orientación y soporte para la adopción, protección y administración de experiencias de Microsoft Copilot y personalizadas en su organización.
+
+Centro de aprendizaje de IA
+Desarrolle habilidades prácticas para liberar el potencial de la IA y prepárese para la innovación de la IA utilizando Microsoft Cloud.
+
+Adopción de Copilot Studio
+Consulte los recursos de adopción de Copilot Studio.
+
+Escenarios de Copilot Studio
+Explora escenarios del agente para iniciar tus proyectos con recursos descargables.
+
+Copilot Studio Blog
+Manténgase actualizado con el blog de Copilot Studio, el origen de las noticias del agente con tecnología de IA.
